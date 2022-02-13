@@ -1,6 +1,6 @@
 # ImageGlass Extention File Type Icons
 
-Adobe file icons for Image Glass  
+## 1. Adobe
 https://github.com/xmha97/IGExtIcons/releases/download/v8.5.1.22/Adobe.v8.5.1.22.zip
 
 ![Banner](https://raw.githubusercontent.com/xmha97/IGExtIcons/master/Banner.jpg)
