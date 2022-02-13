@@ -1,10 +1,8 @@
 # ImageGlass Extention File Type Icons
 
 Adobe file icons for Image Glass  
-
+https://github.com/xmha97/IGExtIcons/releases/download/v8.5.1.22/Adobe.v8.5.1.22.zip
 ![Banner](https://raw.githubusercontent.com/xmha97/IGExtIcons/master/Banner.jpg)
-
-Icon Size: [256x256], [128x128], [64x64], [48x48], [32x32], [24x24], [16x16]
 
 # Tools Used
 - Resource Hacker
